@@ -1,0 +1,33 @@
+*{
+    padding: 50px;
+}
+.username{
+    font-size: 20px;
+    margin:20px;
+  align-items: center;
+  text-align: center;
+  }
+
+  .password{
+    margin: 20px;
+    font-size: 20px;
+    align-items: center;
+  text-align: center;
+  }
+
+  .submit{
+    margin-top: 20px;
+    margin-left:30px;
+    font-size: 21px; 
+  }
+
+  .welcome{
+    font-size: 40px;
+    font-family: monospace;
+    background: -webkit-repeating-linear-gradient(15deg, rgb(44, 44, 69) ,rgb(120, 41, 41),black);
+    border-radius:17px;
+    box-shadow: 0.4px 0 0 0.5px;
+    text-decoration: dotted;
+    text-shadow: 2px 0 0 3px;
+
+  }
